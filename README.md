@@ -9,7 +9,7 @@ The analysis combines **Exploratory Data Analysis (EDA)**, **statistical testing
 ---
 
 ## Data Source Overview
-The data is sourced from the `inventory.db` database and consists of **7 relational tables** with more than **15 million total records**.
+The data is sourced from the `inventory.db` database and consists of **7 relational tables** with more than **12 million total records**.
 
 | Table Name | Key Contents | Purpose |
 |-----------|-------------|---------|
