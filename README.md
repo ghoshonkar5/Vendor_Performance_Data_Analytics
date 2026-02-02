@@ -164,6 +164,7 @@ An interactive **Power BI dashboard** was developed to visualize:
 - Profit margins
 - Inventory turnover
 - Capital lock-in by vendor
+![Power BI Vendor Sales Dashboard](dashboard.png)
 
 ---
 
